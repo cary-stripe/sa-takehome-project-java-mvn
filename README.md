@@ -5,6 +5,8 @@ This is a simple e-commerce application that a customer can use to purchase a bo
 You'll receive these in email.
 
 ## Application overview
+*We recommend that you use a JDK version less than JDK 16 as it has been known to cause issues with the libraries involved in this project.*
+
 This demo is written in Java with the [SparkJava](https://sparkjava.com/) web framework. You'll need to retrieve a set of testmode API keys from the Stripe dashboard (you can create a free test account [here](https://dashboard.stripe.com/register)) to run this locally.
 
 We are using the [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/) CSS framework. It is the most popular CSS framework in the world and is pretty easy to get started with — feel free to modify public/css if you like.
