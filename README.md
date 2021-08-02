@@ -18,7 +18,7 @@ To simplify this project, we're also not using any database here, either. Instea
 To get started, please run
 
 ```
-$ git clone https://github.com/cary-stripe/sa-takehome-project-java.git && cd sa-takehome-project-java
+$ git clone https://github.com/cary-stripe/sa-takehome-project-java-mvn.git && cd sa-takehome-project-java-mvn
 ```
 
 After you are in the project root directory, in order to build and run, you can run the following commands
