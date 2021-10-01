@@ -23,6 +23,12 @@ To get started, please run
 $ git clone https://github.com/cary-stripe/sa-takehome-project-java-mvn.git && cd sa-takehome-project-java-mvn
 ```
 
+Once you are in your project's root directory, please rename the `sample.env` file to `.env` and replace the contents with your
+Stripe keys from the admin dashboard.
+
+We are using the [dotenv-java library](https://github.com/cdimascio/dotenv-java). This library has already been installed for you to use.
+Please see link for additional usage information.
+
 After you are in the project root directory, in order to build and run, you can run the following commands
 
 ```
